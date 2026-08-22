@@ -46,6 +46,19 @@ Titanic-Analytics-Dashboard/
     └── style.css
 
 
+## 📊 Dashboard Analysis
+
+The dashboard analyzes:
+
+- Passenger survival
+- Gender distribution
+- Passenger class
+- Age distribution
+- Fare distribution
+- Embarkation port
+- Age vs Fare relationship
+- Correlation between numerical variables
+
 ## 🌐 Live Demo
 
 [🚀 Open Live Dashboard](https://abser-titanic.plotly.app/)
