@@ -48,60 +48,54 @@ Titanic-Analytics-Dashboard/
     └── style.css
 ```
 
-📊 Dashboard Analysis
+
+## 📊 Dashboard Analysis
 
 The dashboard provides analysis of:
 
-Passenger survival
-Gender distribution
-Passenger class
-Age distribution
-Fare distribution
-Embarkation port
-Survival rate by gender
-Survival rate by passenger class
-Survival rate by age group
-Survival rate by embarked port
-Age vs Fare relationship
-Correlation between numerical variables
-🔍 Interactive Filtering
+- Passenger survival
+- Gender distribution
+- Passenger class
+- Age distribution
+- Fare distribution
+- Embarkation port
+- Survival rate by gender
+- Survival rate by passenger class
+- Survival rate by age group
+- Survival rate by embarked port
+- Age vs Fare relationship
+- Correlation between numerical variables
+
+## 🔍 Interactive Filtering
 
 Users can filter the passenger data using:
 
-Gender
-Passenger Class
-Embarked Port
-Survival Status
-Age Range
-Fare Range
-Global Search
+- Gender
+- Passenger Class
+- Embarked Port
+- Survival Status
+- Age Range
+- Fare Range
+- Global Search
 
-All charts and summary statistics update based on the selected filters.
-
-🌙 Dark & Light Mode
+## 🌙 Dark & Light Mode
 
 The dashboard supports both:
 
-☀️ Light Mode
-🌙 Dark Mode
+- ☀️ Light Mode
+- 🌙 Dark Mode
 
-The interface, charts, dropdowns and data table are designed to adapt to the selected theme.
+## 📥 Download Filtered Data
 
-📥 Download Filtered Data
+Users can download the currently filtered passenger data as a CSV file.
 
-Users can download the currently filtered passenger data as a CSV file using the Download CSV button.
+## 🌐 Live Demo
 
-🌐 Live Demo
+[🚀 Open Live Dashboard](https://abser-titanic.plotly.app/)
 
-🚀 Open Live Dashboard
+## 👨‍💻 Author
 
-📸 Dashboard Preview
+**Muhammad Nurul Abser**
 
-The dashboard contains interactive charts, filters, KPI cards and a passenger data table for exploring the Titanic dataset.
-
-👨‍💻 Author
-
-Muhammad Nurul Abser
 
 ⭐ If you find this project useful, feel free to explore the repository and the live dashboard.
-
