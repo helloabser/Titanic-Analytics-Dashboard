@@ -1,0 +1,100 @@
+/* =====================================================
+   DARK MODE - DROPDOWN
+   ===================================================== */
+
+.dark-mode .Select-control {
+    background-color: #2b2b2b !important;
+    border-color: #555 !important;
+}
+
+.dark-mode .Select-value-label {
+    color: #ffffff !important;
+}
+
+.dark-mode .Select-placeholder {
+    color: #bbbbbb !important;
+}
+
+.dark-mode .Select-menu-outer {
+    background-color: #2b2b2b !important;
+    border-color: #555 !important;
+}
+
+.dark-mode .Select-option {
+    background-color: #2b2b2b !important;
+    color: #ffffff !important;
+}
+
+.dark-mode .Select-option:hover {
+    background-color: #444444 !important;
+    color: #ffffff !important;
+}
+
+.dark-mode .Select-option.is-focused {
+    background-color: #444444 !important;
+    color: #ffffff !important;
+}
+
+.dark-mode .Select-option.is-selected {
+    background-color: #555555 !important;
+    color: #ffffff !important;
+}
+
+
+/* =====================================================
+   DARK MODE - DROPDOWN ARROW
+   ===================================================== */
+
+.dark-mode .Select-arrow {
+    border-top-color: #ffffff !important;
+}
+
+
+/* =====================================================
+   DARK MODE - INPUT
+   ===================================================== */
+
+.dark-mode input {
+    background-color: #2b2b2b !important;
+    color: #ffffff !important;
+    border-color: #555555 !important;
+}
+
+.dark-mode input::placeholder {
+    color: #aaaaaa !important;
+}
+
+
+/* =====================================================
+   DARK MODE - RADIO
+   ===================================================== */
+
+.dark-mode label {
+    color: #ffffff;
+}
+
+
+/* =====================================================
+   LIGHT MODE
+   ===================================================== */
+
+.light-mode .Select-control {
+    background-color: #ffffff !important;
+}
+
+.light-mode .Select-value-label {
+    color: #212529 !important;
+}
+
+.light-mode .Select-menu-outer {
+    background-color: #ffffff !important;
+}
+
+.light-mode .Select-option {
+    background-color: #ffffff !important;
+    color: #212529 !important;
+}
+
+.light-mode .Select-option:hover {
+    background-color: #eeeeee !important;
+}
