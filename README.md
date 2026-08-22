@@ -36,18 +36,14 @@ insights through interactive charts and filters.
 
 ## 📁 Project Structure
 
-```text
-Titanic-Analytics-Dashboard/
-│
-├── app.py
-├── titanic.csv
-├── requirements.txt
-├── README.md
-│
-└── assets/
-    └── style.css
-```
+**Titanic-Analytics-Dashboard**
 
+- 📄 app.py
+- 📄 titanic.csv
+- 📄 requirements.txt
+- 📄 README.md
+- 📁 assets
+  - 📄 style.css
 
 ## 📊 Dashboard Analysis
 
@@ -96,6 +92,5 @@ Users can download the currently filtered passenger data as a CSV file.
 ## 👨‍💻 Author
 
 **Muhammad Nurul Abser**
-
 
 ⭐ If you find this project useful, feel free to explore the repository and the live dashboard.
