@@ -54,5 +54,4 @@ Titanic-Analytics-Dashboard/
 
 **Muhammad Nurul Abser**
 
-https://abser-titanic.plotly.app/
 
